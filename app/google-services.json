@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669724353139",
+    "firebase_url": "https://teacher-s-assistant-874d6.firebaseio.com",
+    "project_id": "teacher-s-assistant-874d6",
+    "storage_bucket": "teacher-s-assistant-874d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669724353139:android:b7658be90d5188fddb8006",
+        "android_client_info": {
+          "package_name": "com.cleverTapTest.clevertaptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669724353139-9kkq4gnmssioe3h2g7047tiojiq5n2po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cleverTapTest.clevertaptest",
+            "certificate_hash": "5edffe59c760b5351df01726c113174ba0524196"
+          }
+        },
+        {
+          "client_id": "669724353139-96hcuof3s104q2htk2bcoojqn3818eb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gbOP9szn_ijPpf4yEPoorF9vKiyBNn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669724353139-96hcuof3s104q2htk2bcoojqn3818eb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
